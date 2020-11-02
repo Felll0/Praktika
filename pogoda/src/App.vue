@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Sinoptic Ua</h1>
+    <h1>Nedo Sinoptic Ua</h1>
     <div v-if='show == true'>
       Coordinates:{{pog.coord}} <br>
       Temperature:{{pog.main.temp}} <br>
